@@ -1,0 +1,4 @@
+.sass-cahce/
+.sass-cache/*
+.DS_Store
+*.swp
