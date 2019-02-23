@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://sitcon.org/2019/</loc>
+  <lastmod>2019-02-23T06:20:35+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://sitcon.org/2013/</loc>
+  <lastmod>2018-09-25T15:04:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sitcon.org/2014/</loc>
+  <lastmod>2018-09-25T15:10:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sitcon.org/2015/</loc>
+  <lastmod>2018-11-25T13:30:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sitcon.org/2016/</loc>
+  <lastmod>2018-09-25T15:15:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sitcon.org/2017/</loc>
+  <lastmod>2018-11-11T12:53:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sitcon.org/2018/</loc>
+  <lastmod>2019-01-25T15:55:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
