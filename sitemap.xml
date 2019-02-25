@@ -1,80 +1,271 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-<url>
-  <loc>https://sitcon.org/</loc>
-  <lastmod>2018-09-25T15:04:25+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://sitcon.org/2013/</loc>
-  <lastmod>2018-09-25T15:04:25+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sitcon.org/2014/</loc>
-  <lastmod>2018-09-25T15:10:45+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sitcon.org/2015/</loc>
-  <lastmod>2018-11-25T13:30:56+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sitcon.org/2016/</loc>
-  <lastmod>2018-09-25T15:15:20+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sitcon.org/2017/</loc>
-  <lastmod>2018-11-11T12:53:18+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sitcon.org/2018/</loc>
-  <lastmod>2019-01-25T15:55:20+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sitcon.org/2019/</loc>
-  <lastmod>2019-02-23T06:20:35+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sitcon.org/2019/active</loc>
-  <lastmod>2019-02-23T06:20:35+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://sitcon.org/2019/agenda</loc>
-  <lastmod>2019-02-23T06:20:35+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://sitcon.org/2019/sponsor</loc>
-  <lastmod>2019-02-23T06:20:35+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://sitcon.org/2019/location</loc>
-  <lastmod>2019-02-23T06:20:35+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://sitcon.org/2019/venue</loc>
-  <lastmod>2019-02-23T06:20:35+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://sitcon.org/2019/staff</loc>
-  <lastmod>2019-02-23T06:20:35+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-      
+<?xml version="1.0" encoding="utf-8"?>
+<!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <url>
+    <loc>https://sitcon.org/</loc>
+    <lastmod>2019-02-25</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://sitcon.org/2014/</loc>
+    <lastmod>2018-09-25</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://sitcon.org/2017/</loc>
+    <lastmod>2018-11-11</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://sitcon.org/2015/</loc>
+    <lastmod>2018-11-25</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://sitcon.org/2016/</loc>
+    <lastmod>2018-09-25</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://sitcon.org/2013/</loc>
+    <lastmod>2018-09-25</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://sitcon.org/2018/</loc>
+    <lastmod>2019-01-25</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://sitcon.org/2019/</loc>
+    <lastmod>2019-02-25</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://sitcon.org/2019/active/</loc>
+    <lastmod>2019-02-25</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://sitcon.org/2019/sponsor/</loc>
+    <lastmod>2019-02-25</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://sitcon.org/2019/agenda/</loc>
+    <lastmod>2019-02-25</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://sitcon.org/2019/venue/</loc>
+    <lastmod>2019-02-25</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://sitcon.org/2019/staff/</loc>
+    <lastmod>2019-02-25</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://sitcon.org/2019/location/</loc>
+    <lastmod>2019-02-25</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://sitcon.org/2019/agenda/39ac6c90-d658-432b-993e-67a371e5221e/</loc>
+    <lastmod>2019-02-25</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://sitcon.org/2019/agenda/e42189f7-4e46-4273-9f96-09ea02312cea/</loc>
+    <lastmod>2019-02-25</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://sitcon.org/2019/agenda/ad4626c5-0315-4926-a094-38ce9b481670/</loc>
+    <lastmod>2019-02-25</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://sitcon.org/2019/agenda/7a67f4fb-b6f4-4595-b9af-527b3024c8f8/</loc>
+    <lastmod>2019-02-25</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://sitcon.org/2019/agenda/7505ebcd-cea3-41ec-a661-f9c13d6dfa93/</loc>
+    <lastmod>2019-02-25</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://sitcon.org/2019/agenda/71d881df-22a7-48b9-b6e5-3996e6ff02d2/</loc>
+    <lastmod>2019-02-25</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://sitcon.org/2019/agenda/31cb9e9c-0831-4c03-80b4-2cef95a98a61/</loc>
+    <lastmod>2019-02-25</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://sitcon.org/2019/agenda/f60637a1-0ccb-4c02-b1b0-be7a6a393d87/</loc>
+    <lastmod>2019-02-25</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://sitcon.org/2019/agenda/0b49bfce-a147-4702-a5b9-87eb2dfa5135/</loc>
+    <lastmod>2019-02-25</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://sitcon.org/2019/agenda/07c55774-7c29-4439-ad50-21f7b6620168/</loc>
+    <lastmod>2019-02-25</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://sitcon.org/2019/agenda/2c33a606-b5db-44ef-8a7e-eb09b5093f45/</loc>
+    <lastmod>2019-02-25</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://sitcon.org/2019/agenda/a45e29d8-8691-4e6e-a965-dc180ed65fef/</loc>
+    <lastmod>2019-02-25</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://sitcon.org/2019/agenda/efa26f9f-44f6-4067-84a0-621c518a44ec/</loc>
+    <lastmod>2019-02-25</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://sitcon.org/2019/agenda/d2e554fc-470d-43b5-a411-948462848382/</loc>
+    <lastmod>2019-02-25</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://sitcon.org/2019/agenda/21f181aa-da76-4fdd-84e3-739ab5453ce0/</loc>
+    <lastmod>2019-02-25</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://sitcon.org/2019/agenda/f7b2dd20-0257-421d-9335-a4a76cf4d142/</loc>
+    <lastmod>2019-02-25</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://sitcon.org/2019/agenda/a19087e2-0d91-4ad5-a173-7dceeef504df/</loc>
+    <lastmod>2019-02-25</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://sitcon.org/2019/agenda/f1cb68c2-2496-411d-bfdb-bdaed0b0f8cb/</loc>
+    <lastmod>2019-02-25</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://sitcon.org/2019/agenda/7f660dca-1d95-4ae2-853f-157d32816aff/</loc>
+    <lastmod>2019-02-25</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://sitcon.org/2019/agenda/bad80397-917d-494a-87fa-d15ef4a1ff82/</loc>
+    <lastmod>2019-02-25</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://sitcon.org/2019/agenda/7959ab0b-cdfa-40bc-8566-099477abb195/</loc>
+    <lastmod>2019-02-25</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://sitcon.org/2019/agenda/7a8f0bf4-fe08-4f6d-a241-47a338ea740d/</loc>
+    <lastmod>2019-02-25</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://sitcon.org/2019/agenda/ddc7a5a4-736d-4885-8591-ae9983cc6cd8/</loc>
+    <lastmod>2019-02-25</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://sitcon.org/2019/agenda/64ed212c-f1a9-40df-a84e-5f7411d4c887/</loc>
+    <lastmod>2019-02-25</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://sitcon.org/2019/agenda/e631bc05-685f-4613-bf3b-7c222fbae65d/</loc>
+    <lastmod>2019-02-25</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://sitcon.org/2019/agenda/b80fc380-a069-46be-a104-71b5420e69f7/</loc>
+    <lastmod>2019-02-25</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://sitcon.org/2019/agenda/48cc5d8a-30c4-4310-b9f4-0411096c617e/</loc>
+    <lastmod>2019-02-25</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://sitcon.org/2019/agenda/73a84a53-1530-4916-a5bb-215542ebde59/</loc>
+    <lastmod>2019-02-25</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://sitcon.org/2019/agenda/b83ef4fd-e20c-4b6b-a743-d9ba2d803c05/</loc>
+    <lastmod>2019-02-25</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://sitcon.org/2019/agenda/2eae963b-6aa2-4086-a8ea-68e6b0d601ed/</loc>
+    <lastmod>2019-02-25</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://sitcon.org/2019/agenda/1735b603-2418-4bb7-a237-d80dd54b0272/</loc>
+    <lastmod>2019-02-25</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://sitcon.org/2019/agenda/542bd64b-ae36-4772-8e03-befe2a55bc70/</loc>
+    <lastmod>2019-02-25</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://sitcon.org/2019/agenda/8c831903-e1fe-40d7-ac20-2f33d8fec104/</loc>
+    <lastmod>2019-02-25</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://sitcon.org/2019/agenda/b83d9e9e-9b0f-4130-adfc-06b1334c1b46/</loc>
+    <lastmod>2019-02-25</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://sitcon.org/2019/agenda/58ec8d82-49f6-4bf1-97e6-a6254a02a571/</loc>
+    <lastmod>2019-02-25</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://sitcon.org/2019/agenda/f5d28cd1-5165-4388-9dc2-5d2257a5b5bc/</loc>
+    <lastmod>2019-02-25</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://sitcon.org/2019/agenda/b22587ec-bbe7-493c-ba3b-43e9250226ac/</loc>
+    <lastmod>2019-02-25</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://sitcon.org/2019/agenda/79d3dcf9-e602-4810-9ac3-f99dc7b3cc6c/</loc>
+    <lastmod>2019-02-25</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://sitcon.org/2019/agenda/ba761d66-5d52-4a7b-b846-95687e3ff0db/</loc>
+    <lastmod>2019-02-25</lastmod>
+    <priority>1.0</priority>
+  </url>
 </urlset>
+<!--<guid value="b0c4ae0e-4ff3-4dc6-b833-5dd411132daa" />-->
+<!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
