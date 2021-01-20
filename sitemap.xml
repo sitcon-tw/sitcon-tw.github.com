@@ -53,6 +53,61 @@
   <priority>1.00</priority>
 </url>
 <url>
+  <loc>https://sitcon.org/2021/</loc>
+  <lastmod>2021-01-20T09:21:00+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://sitcon.org/2013/cfp</loc>
+  <lastmod>2018-09-25T15:04:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sitcon.org/2014/cfp/</loc>
+  <lastmod>2018-09-25T15:10:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sitcon.org/2015/cfp/</loc>
+  <lastmod>2018-11-25T13:30:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sitcon.org/2016/cfp/</loc>
+  <lastmod>2018-09-25T15:15:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sitcon.org/2017/cfp/</loc>
+  <lastmod>2018-11-11T12:53:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sitcon.org/2018/cfp/</loc>
+  <lastmod>2019-01-25T15:55:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sitcon.org/2019/cfp/</loc>
+  <lastmod>2019-10-06T17:00:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sitcon.org/2020/cfp</loc>
+  <lastmod>2020-02-27T22:21:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sitcon.org/2021/cfp</loc>
+  <lastmod>2021-01-20T09:21:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sitcon.org/2021/cfp/news</loc>
+  <lastmod>2021-01-20T09:21:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
   <loc>https://sitcon.org/2019/agenda/</loc>
   <lastmod>2019-10-06T17:00:08+00:00</lastmod>
   <priority>0.80</priority>
