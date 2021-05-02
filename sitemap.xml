@@ -108,6 +108,11 @@
   <priority>0.80</priority>
 </url>
 <url>
+  <loc>https://sitcon.org/2021/cfp/ocfp-news</loc>
+  <lastmod>2021-01-20T09:21:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
   <loc>https://sitcon.org/2019/agenda/</loc>
   <lastmod>2019-10-06T17:00:08+00:00</lastmod>
   <priority>0.80</priority>
@@ -150,6 +155,31 @@
 <url>
   <loc>https://sitcon.org/2020/traffic</loc>
   <lastmod>2020-02-27T22:21:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sitcon.org/2021/team</loc>
+  <lastmod>2021-05-02T22:21:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sitcon.org/2021/agenda</loc>
+  <lastmod>2021-05-02T22:21:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sitcon.org/2021/venue</loc>
+  <lastmod>2021-05-02T22:21:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sitcon.org/2021/traffic</loc>
+  <lastmod>2021-05-02T22:21:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sitcon.org/2021/sponsor</loc>
+  <lastmod>2021-05-02T22:21:06+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
@@ -562,6 +592,214 @@
   <lastmod>2020-02-27T22:21:06+00:00</lastmod>
   <priority>0.64</priority>
 </url>
-
-
+<url>
+  <loc>https://sitcon.org/2021/agenda/1c04d9ca-ee76-4760-974e-63b56febea7b</loc>
+  <lastmod>2021-05-02T22:21:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sitcon.org/2021/agenda/ff1e4881-8602-46ff-a890-23507e2c0813</loc>
+  <lastmod>2021-05-02T22:21:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sitcon.org/2021/agenda/97b49c22-89b5-4c66-94d4-108b36db0c19</loc>
+  <lastmod>2021-05-02T22:21:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sitcon.org/2021/agenda/7a88857e-7d50-4d9c-a656-2d99feef6198</loc>
+  <lastmod>2021-05-02T22:21:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sitcon.org/2021/agenda/65cb324d-ce34-4c65-bb08-64967f084355</loc>
+  <lastmod>2021-05-02T22:21:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sitcon.org/2021/agenda/c7ccd2d1-47fb-40b6-b1b5-3069c1b2a340</loc>
+  <lastmod>2021-05-02T22:21:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sitcon.org/2021/agenda/80982bfb-4c5e-45f1-bda1-876818ed5995</loc>
+  <lastmod>2021-05-02T22:21:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sitcon.org/2021/agenda/32b8d488-7d5b-4c0e-9efe-aee6321062b9</loc>
+  <lastmod>2021-05-02T22:21:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sitcon.org/2021/agenda/99414a8b-5a1f-44fa-8afb-69650c027fe8</loc>
+  <lastmod>2021-05-02T22:21:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sitcon.org/2021/agenda/3b4ad32d-97e5-4313-9ff5-faa4dc0ca566</loc>
+  <lastmod>2021-05-02T22:21:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sitcon.org/2021/agenda/4d380a6d-558b-408a-862c-ad80a7e4176a</loc>
+  <lastmod>2021-05-02T22:21:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sitcon.org/2021/agenda/a0248f13-f904-4263-b42d-d6f381010a7b</loc>
+  <lastmod>2021-05-02T22:21:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sitcon.org/2021/agenda/2e986430-80b6-40f6-8d95-22fb3c07738d</loc>
+  <lastmod>2021-05-02T22:21:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sitcon.org/2021/agenda/5860c3e8-a7a6-4c7b-afee-7797e777725e</loc>
+  <lastmod>2021-05-02T22:21:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sitcon.org/2021/agenda/20605b7c-80a4-4078-b411-102fa1d6c333</loc>
+  <lastmod>2021-05-02T22:21:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sitcon.org/2021/agenda/7284b133-9b25-4b38-b3fd-2b6e8e26b8df</loc>
+  <lastmod>2021-05-02T22:21:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sitcon.org/2021/agenda/3fe74d93-2ab5-4c42-8b49-b5b92973f4aa</loc>
+  <lastmod>2021-05-02T22:21:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sitcon.org/2021/agenda/c35cb544-b88a-40ea-a05f-e77448b30fee</loc>
+  <lastmod>2021-05-02T22:21:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sitcon.org/2021/agenda/80e71005-50f9-4e5a-bbc7-e4c6c4eeae9b</loc>
+  <lastmod>2021-05-02T22:21:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sitcon.org/2021/agenda/1c5afaa0-455b-482f-a3ff-303df09a2639</loc>
+  <lastmod>2021-05-02T22:21:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sitcon.org/2021/agenda/1f9447f8-b86e-45a3-9b4c-2529237114ca</loc>
+  <lastmod>2021-05-02T22:21:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sitcon.org/2021/agenda/1c9e74cd-aeeb-4e63-8ec4-af33eff16e7d</loc>
+  <lastmod>2021-05-02T22:21:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sitcon.org/2021/agenda/d55e20a3-5cd8-4e89-b234-9f76e1404cb2</loc>
+  <lastmod>2021-05-02T22:21:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sitcon.org/2021/agenda/6755ff0a-0417-4c7f-b196-ff43e2d5f103</loc>
+  <lastmod>2021-05-02T22:21:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sitcon.org/2021/agenda/88db054c-aeef-4a58-9c6a-1c0fed55cc06</loc>
+  <lastmod>2021-05-02T22:21:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sitcon.org/2021/agenda/2b210726-c5b0-4094-a591-fccb51f0ee55</loc>
+  <lastmod>2021-05-02T22:21:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sitcon.org/2021/agenda/bb826e6d-8544-4101-8811-13032bd9a4fd</loc>
+  <lastmod>2021-05-02T22:21:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sitcon.org/2021/agenda/550f8187-7461-4d62-9a60-5cc56ff7dac5</loc>
+  <lastmod>2021-05-02T22:21:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sitcon.org/2021/agenda/524c427c-2a47-4686-ab9e-f6f5dfaf5f5a</loc>
+  <lastmod>2021-05-02T22:21:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sitcon.org/2021/agenda/37910c2b-9136-43cd-b023-fadde4bc457c</loc>
+  <lastmod>2021-05-02T22:21:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sitcon.org/2021/agenda/b683e362-d6fd-42c6-857f-10c6090f80f2</loc>
+  <lastmod>2021-05-02T22:21:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sitcon.org/2021/agenda/2b3a9f09-02ea-4c11-8a02-cec89b222da6</loc>
+  <lastmod>2021-05-02T22:21:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sitcon.org/2021/agenda/6a9d3c3f-618f-463b-9d5d-c9284ecb5cb7</loc>
+  <lastmod>2021-05-02T22:21:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sitcon.org/2021/agenda/f9d32ce5-2f26-4df0-bd39-351bae36cdb1</loc>
+  <lastmod>2021-05-02T22:21:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sitcon.org/2021/agenda/2aa9d7c1-d46c-4b56-a98c-63969c620c2f</loc>
+  <lastmod>2021-05-02T22:21:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sitcon.org/2021/agenda/2830b47b-0c4f-4e22-a506-6ff96384a8e0</loc>
+  <lastmod>2021-05-02T22:21:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sitcon.org/2021/agenda/9f1fe543-5899-4a42-969e-2ab8c43068f5</loc>
+  <lastmod>2021-05-02T22:21:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sitcon.org/2021/agenda/288533d0-8d10-4545-976f-b5b692abdac6</loc>
+  <lastmod>2021-05-02T22:21:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sitcon.org/2021/agenda/2c2be0a9-25be-452c-b957-09532d3c2645</loc>
+  <lastmod>2021-05-02T22:21:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sitcon.org/2021/agenda/eac703ba-339a-4149-92d8-b7391a27e633</loc>
+  <lastmod>2021-05-02T22:21:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sitcon.org/2021/agenda/f938ee30-8879-4397-975b-06b8fb910190</loc>
+  <lastmod>2021-05-02T22:21:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sitcon.org/2021/agenda/e074a1ef-e562-4be8-8cac-ad5a3546d54e</loc>
+  <lastmod>2021-05-02T22:21:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
 </urlset>
