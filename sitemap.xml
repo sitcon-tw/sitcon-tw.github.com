@@ -64,7 +64,7 @@
 </url>
 <url>
   <loc>https://sitcon.org/2022/</loc>
-  <lastmod>2022-06-01T21:00:00+00:00</lastmod>
+  <lastmod>2022-06-27T06:10:09+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
@@ -205,6 +205,26 @@
 <url>
   <loc>https://sitcon.org/2021/sponsor</loc>
   <lastmod>2021-05-02T22:21:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sitcon.org/2022/activity</loc>
+  <lastmod>2022-06-27T06:10:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sitcon.org/2022/traffic</loc>
+  <lastmod>2022-06-27T06:10:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sitcon.org/2022/staff</loc>
+  <lastmod>2022-06-27T06:10:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sitcon.org/2022/sponsor</loc>
+  <lastmod>2022-06-27T06:10:09+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
