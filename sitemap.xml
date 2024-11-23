@@ -1207,4 +1207,29 @@
   <lastmod>2024-05-06T15:02:15+00:00</lastmod>
   <priority>0.41</priority>
 </url>
+<url>
+  <loc>https://sitcon.org/2025/</loc>
+  <lastmod>2024-11-23T00:22:49+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://sitcon.org/2025/cfp/</loc>
+  <lastmod>2024-11-23T00:22:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sitcon.org/2025/cfp/normal/</loc>
+  <lastmod>2024-11-23T00:22:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sitcon.org/2025/cfp/undefined/</loc>
+  <lastmod>2024-11-23T00:22:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sitcon.org/2025/cfp/poster/</loc>
+  <lastmod>2024-11-23T00:22:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
 </urlset>
