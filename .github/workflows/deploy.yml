@@ -3,11 +3,18 @@ name: Deploy to GitHub Pages
 on:
     push:
         branches:
-            - main
+            - master
     workflow_dispatch:
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
 
 jobs:
     build:
+        environment:
+          name: github-pages
+          url: ${{ steps.deployment.outputs.page_url }} 
         runs-on: ubuntu-latest
         steps:
             - name: Checkout repository
