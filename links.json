@@ -10,6 +10,7 @@
   },
   {
     "paths": [
+      "irc",
       "webchat"
     ],
     "url": "https://web.libera.chat/#SITCON",
@@ -53,6 +54,7 @@
   {
     "paths": [
       "photo",
+      "photos",
       "flickr"
     ],
     "url": "https://www.flickr.com/sitcon",
@@ -78,6 +80,7 @@
   },
   {
     "paths": [
+      "blog",
       "medium"
     ],
     "url": "https://medium.com/sitcon",
