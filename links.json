@@ -1,0 +1,116 @@
+[
+    {
+        "paths": ["yt", "youtube"],
+        "url": "https://www.youtube.com/c/SITCONArchive",
+        "title": "學生計算機年會 YouTube",
+        "description": "在 YouTube 上看看過往的影片們吧！"
+    },
+    {
+        "paths": ["webchat"],
+        "url": "https://web.libera.chat/#SITCON",
+        "title": "學生計算機年會 Web IRC",
+        "description": "透過 IRC 和我們一起聊天吧~! "
+    },
+    {
+        "paths": ["x", "twitter"],
+        "url": "https://twitter.com/sitcontw",
+        "title": "SITCON 學生計算機年會 X",
+        "description": "在 Twitter 上關注我們的消息吧！"
+    },
+    {
+        "paths": ["threads"],
+        "url": "https://www.threads.net/@sitcon.tw",
+        "title": "SITCON 學生計算機年會 Threads",
+        "description": "在 Threads 上關注我們吧！"
+    },
+    {
+        "paths": ["telegram", "tg"],
+        "url": "https://telegram.me/SITCONgeneral",
+        "title": "SITCON學生計算機年會 Telegram",
+        "description": "在 Telegram 上與 SITCON 的夥伴們抬槓吧！"
+    },
+    {
+        "paths": ["plurk"],
+        "url": "https://www.plurk.com/sitcon",
+        "title": "SITCON 學生計算機年會 Plurk",
+        "description": "在 Plurk 上關注我們的消息吧！"
+    },
+    {
+        "paths": ["photo", "flickr"],
+        "url": "https://www.flickr.com/sitcon",
+        "title": "SITCON 學生計算機年會 Flickr",
+        "description": "在 Flickr 上關注我們的活動紀錄吧！"
+    },
+    {
+        "paths": ["odysee"],
+        "url": "https://odysee.com/@SITCON",
+        "title": "SITCON 學生計算機年會 Odysee",
+        "description": "在 Odysee 上看看過往的影片們吧！"
+    },
+    {
+        "paths": ["meetup", "meetup-taipei"],
+        "url": "https://hackmd.io/AwNmGMA4CYFZYLQBYTgMzIIZIOwIJzhL4Lgj77ABG4ApgGZXA5A=?both",
+        "title": "SITCON 台北定期聚",
+        "description": "來參與我們的台北定期聚吧！"
+    },
+    {
+        "paths": ["medium"],
+        "url": "https://medium.com/sitcon",
+        "title": "SITCON 學生計算機年會 Medium",
+        "description": "在 Medium 上關注我們的吧！"
+    },
+    {
+        "paths": ["instagram","ig"],
+        "url": "https://www.instagram.com/sitcon.tw",
+        "title": "SITCON 學生計算機年會 Instagram",
+        "description": "在 Instagram 上關注我們的吧！"
+    },
+    {
+        "paths": ["floss-community-list","foss-community-list"],
+        "url": "https://hackmd.io/@SITCON/floss-community-list",
+        "title": "開源社群推廣目錄",
+        "description": "開放原始碼（FLOSS）社群目錄，在這裡找到你有興趣的社群參與吧；身為社群一份子的你也可以將社群的最新資訊更新上來喔！"
+    },
+    {
+        "paths": ["facebook","fb"],
+        "url": "https://www.facebook.com/SITCONtw/",
+        "title": "SITCON 學生計算機年會 Facebook",
+        "description": "在 Facebook 上關注我們的消息吧！"
+    },
+    {
+        "paths": ["donate"],
+        "url": "https://ocf.neticrm.tw/civicrm/contribute/transact?reset=1&id=76",
+        "title": "SITCON 學生計算機年會 個人贊助",
+        "description": "SITCON 堅持降低學生參與門檻的理念，活動費用全由個人、企業、政府與教育單位贊助支持。如果您認同 SITCON 的精神，歡迎參與個人贊助計劃，為推廣學生資訊教育與開源文化貢獻一份力量。"
+    },
+    {
+        "paths": ["discord","dc"],
+        "url": "https://discord.gg/Cr3xvyj",
+        "title": "SITCON 學生計算機年會 Discord",
+        "description": "在 Discord 上與 SITCON 的夥伴們抬槓吧！"
+    },
+    {
+        "paths": ["calendar","cal"],
+        "url": "https://calendar.google.com/calendar/embed?src=ull8p8ceof4sdba5na86s016p8%40group.calendar.google.com&ctz=Asia%2FTaipei",
+        "title": "SITCON 學生計算機年會 Google Calendar",
+        "description": "訂閱學生計算機年會 Google Calendar"
+    },
+    {
+        "paths": ["camp-calendar","camp-cal"],
+        "url": "https://calendar.google.com/calendar/embed?src=rf14d0k6cfstdnac3bigqv72ho%40group.calendar.google.com&ctz=Asia%2FTaipei",
+        "title": "SITCON 學生計算機年會夏令營 Google Calendar",
+        "description": "訂閱學生計算機年會夏令營 Google Calendar"
+    },
+    {
+        "paths": ["camp"],
+        "url": "https://sitcon.camp/",
+        "title": "SITCON 學生計算機年會夏令營",
+        "description": "來參與我們的夏令營吧！"
+    },
+    {
+        "paths": ["404"],
+        "url": "https://sitcon.org/",
+        "title": "SITCON 學生計算機年會",
+        "description": "SITCON 學生計算機年會"
+    }
+]
