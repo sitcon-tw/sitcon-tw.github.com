@@ -133,6 +133,56 @@
   },
   {
     "paths": [
+      "github",
+      "gh"
+    ],
+    "url": "https://github.com/sitcon-tw/",
+    "title": "SITCON 學生計算機年會 GitHub",
+    "description": "在 GitHub 上關注我們的開源專案吧！"
+  },
+  {
+    "paths": [
+      "gitlab"
+    ],
+    "url": "https://gitlab.com/sitcon-tw/",
+    "title": "SITCON 學生計算機年會 GitLab",
+    "description": "在 GitLab 上關注我們的籌備進度吧！"
+  },
+  {
+    "paths": [
+      "gitlab-guide"
+    ],
+    "url": "https://hackmd.io/@SITCON/GitLab",
+    "title": "SITCON 學生計算機年會 GitLab 使用指南",
+    "description": "了解 SITCON GitLab 的使用方式，並且成為我們的一份子吧！"
+  },
+  {
+    "paths": [
+      "hackmd"
+    ],
+    "url": "https://hackmd.io/@SITCON",
+    "title": "SITCON 學生計算機年會 HackMD",
+    "description": "在 HackMD 上關注我們的公開文件吧！"
+  },
+  {
+    "paths": [
+      "doc",
+      "docs"
+    ],
+    "url": "https://hackmd.io/@SITCON/doc",
+    "title": "SITCON 學生計算機年會 各式文件存放處說明",
+    "description": "了解 SITCON 的各式文件存放處說明吧！"
+  },
+  {
+    "paths": [
+      "guide"
+    ],
+    "url": "https://sitcon.org/community-guide/",
+    "title": "SITCON 學生計算機年會 社群指南",
+    "description": "了解 SITCON 社群的運作方式，並且成為我們的一份子吧！"
+  },
+  {
+    "paths": [
       "calendar",
       "cal"
     ],
