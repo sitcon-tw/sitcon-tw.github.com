@@ -209,6 +209,14 @@
   },
   {
     "paths": [
+      "cfs"
+    ],
+    "url": "https://sitcon.org/2026/cfs",
+    "title": "SITCON 2026 贊助徵求書",
+    "description": "支持開源，支持下一代的電資未來。"
+  },
+  {
+    "paths": [
       "404"
     ],
     "url": "https://sitcon.org/",
