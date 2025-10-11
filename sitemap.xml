@@ -4,6 +4,7 @@
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
+<!--  created with Free Online Sitemap Generator www.xml-sitemaps.com  -->
     <loc>https://sitcon.org/</loc>
     <lastmod>2020-02-27T16:49:40+00:00</lastmod>
     <priority>1.00</priority>
@@ -1236,5 +1237,35 @@
     <loc>https://sitcon.org/2026/</loc>
     <lastmod>2025-07-15T20:22:49+00:00</lastmod>
     <priority>1.00</priority>
+  </url>
+  <url>
+    <loc>https://sitcon.org/2026/cfs/</loc>
+    <lastmod>2025-10-11T05:37:14+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://sitcon.org/2026/cfs/en/</loc>
+    <lastmod>2025-10-11T05:37:14+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://sitcon.org/2026/cfp/</loc>
+    <lastmod>2025-10-11T05:37:14+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://sitcon.org/2026/cfp/normal/</loc>
+    <lastmod>2025-10-11T05:37:14+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://sitcon.org/2026/cfp/open/</loc>
+    <lastmod>2025-10-11T05:37:14+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://sitcon.org/2026/cfp/demo/</loc>
+    <lastmod>2025-10-11T05:37:14+00:00</lastmod>
+    <priority>0.64</priority>
   </url>
 </urlset>
