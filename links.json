@@ -53,6 +53,34 @@
   },
   {
     "paths": [
+      "podcast",
+      "podcast-sp",
+      "podcast-spotify"
+    ],
+    "url": "https://open.spotify.com/show/2WDRRe7hKwSaOqyJruoY0J",
+    "title": "SITCON 學生計算機年會 Podcast",
+    "description": "在 Podcast 上關注我們的節目吧！"
+  },
+  {
+    "paths": [
+      "podcast-ap",
+      "podcast-apple"
+    ],
+    "url": "https://podcasts.apple.com/tw/podcast/%E5%AD%B8%E7%94%9F%E6%88%B0%E9%AC%A5%E6%A9%9F/id1844200701",
+    "title": "SITCON 學生計算機年會 Podcast",
+    "description": "在 Podcast 上關注我們的節目吧！"
+  },
+  {
+    "paths": [
+      "podcast-yt",
+      "podcast-youtube"
+    ],
+    "url": "https://www.youtube.com/playlist?list=PLemTXpRsr742eJC_LgNxtojc2lK6ADG-i",
+    "title": "SITCON 學生計算機年會 Podcast",
+    "description": "在 Podcast 上關注我們的節目吧！"
+  },
+  {
+    "paths": [
       "photo",
       "photos",
       "flickr"
