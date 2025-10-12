@@ -217,6 +217,30 @@
   },
   {
     "paths": [
+      "cfp-form-normal"
+    ],
+    "url": "https://forms.gle/bTjs7D6hxMSrWYx76",
+    "title": "SITCON 學生計算機年會徵稿 - 一般議程",
+    "description": "SITCON 是由學生組成、投身資訊教育與推廣開源精神的社群。也是一個由學生主辦的資訊研討會，給學生們一個發表交流技術的舞台。"
+  },
+  {
+    "paths": [
+      "cfp-form-undefined"
+    ],
+    "url": "https://forms.gle/rnuPsPYxdgrtU9PTA",
+    "title": "SITCON 學生計算機年會徵稿 - 開放式議程",
+    "description": "SITCON 是由學生組成、投身資訊教育與推廣開源精神的社群。也是一個由學生主辦的資訊研討會，給學生們一個發表交流技術的舞台。"
+  },
+  {
+    "paths": [
+      "cfp-form-demo"
+    ],
+    "url": "https://forms.gle/VXedKquqWMTar5aQ7",
+    "title": "SITCON 學生計算機年會徵稿 - Demo 展",
+    "description": "SITCON 是由學生組成、投身資訊教育與推廣開源精神的社群。也是一個由學生主辦的資訊研討會，給學生們一個發表交流技術的舞台。"
+  },
+  {
+    "paths": [
       "cfs"
     ],
     "url": "https://sitcon.org/2026/cfs",
