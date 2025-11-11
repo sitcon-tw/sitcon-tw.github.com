@@ -81,6 +81,15 @@
   },
   {
     "paths": [
+      "podcast-soundon",
+      "podcast-sd"
+    ],
+    "url": "https://player.soundon.fm/p/429de7c0-0c71-4fc9-a2a3-fcc3a651988e",
+    "title": "SITCON 學生計算機年會 Podcast",
+    "description": "在 Podcast 上關注我們的節目吧！"
+  },
+  {
+    "paths": [
       "photo",
       "photos",
       "flickr"
