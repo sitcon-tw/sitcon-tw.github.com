@@ -37,7 +37,8 @@ links.forEach(({ paths, url, title, description }) => {
     <p>正在前往 <a href="${url}">${title}</a></p>
 </body>
 </html>`;
-        fs.writeFileSync(`${linkPath}.html`, htmlContent, "utf8");
+        fs.mkdirSync(linkPath, { recursive: true });
+        fs.writeFileSync(path.join(linkPath, "index.html"), htmlContent, "utf8");
     });
 });
 
