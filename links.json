@@ -136,7 +136,8 @@
   {
     "paths": [
       "floss-community-list",
-      "foss-community-list"
+      "foss-community-list",
+      "community-list"
     ],
     "url": "https://hackmd.io/@SITCON/floss-community-list",
     "title": "開源社群推廣目錄",
