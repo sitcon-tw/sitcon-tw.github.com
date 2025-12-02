@@ -212,6 +212,14 @@
   },
   {
     "paths": [
+      "join"
+    ],
+    "url": "https://hackmd.io/@SITCON/join",
+    "title": "SITCON 學生計算機年會 新人手冊",
+    "description": "透過新人手冊了解 SITCON 社群的運作方式吧！"
+  },
+  {
+    "paths": [
       "guide"
     ],
     "url": "https://sitcon.org/community-guide/",
