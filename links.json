@@ -99,6 +99,14 @@
   },
   {
     "paths": [
+      "finder"
+    ],
+    "url": "https://sitcon.org/flickr-photo-finder/",
+    "title": "SITCON 學生計算機年會 Flickr Photo Finder",
+    "description": "使用 Flickr Photo Finder 搜尋 SITCON 的活動紀錄照片吧！"
+  },
+  {
+    "paths": [
       "odysee"
     ],
     "url": "https://odysee.com/@SITCON",
