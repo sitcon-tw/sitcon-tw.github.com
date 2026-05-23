@@ -45,6 +45,19 @@
   },
   {
     "paths": [
+      "mailing-list",
+      "ml",
+      "google-group",
+      "google-groups",
+      "sitcon-general",
+      "general"
+    ],
+    "url": "https://groups.google.com/g/sitcon-general",
+    "title": "SITCON 學生計算機年會郵件群組",
+    "description": "加入 SITCON General mailing list，接收社群公告並參與討論吧！"
+  },
+  {
+    "paths": [
       "plurk"
     ],
     "url": "https://www.plurk.com/sitcon",
