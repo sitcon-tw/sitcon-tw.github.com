@@ -5,3 +5,6 @@ User-agent: *
 Allow: /
 
 Sitemap: https://sitcon.org/sitemap.xml
+Sitemap: https://sitcon.org/2027/sitemap.xml
+Sitemap: https://sitcon.org/2027/cfp/sitemap.xml
+Sitemap: https://sitcon.org/2027/cfs/sitemap-index.xml
