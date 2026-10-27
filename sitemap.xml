@@ -295,6 +295,9 @@
     <priority>0.80</priority>
   </url>
   <url>
+    <loc>https://sitcon.org/flickr-photo-finder/</loc>
+  </url>
+  <url>
     <loc>https://sitcon.org/2019/agenda/7f660dca-1d95-4ae2-853f-157d32816aff/</loc>
     <lastmod>2019-10-06T17:00:08+00:00</lastmod>
     <priority>0.64</priority>
